@@ -4,7 +4,7 @@ Some FizzBuzz examples, written in JavaScript.
 ![This is an image](/screenshot.png)
 
 ### What is it?
-It´s just some source code of 2 very basic and simple sample FizzBuzz implementations, i did for fun.  
+It´s just some ES6 JS source code of 2 very basic and simple sample FizzBuzz implementations, i did for fun.  
 It contains
 - a 26 codelines example ("_fizzbuzz-simple.js_")
 - a 90 codelines example ("_fizzbuzz-complex.js_")
