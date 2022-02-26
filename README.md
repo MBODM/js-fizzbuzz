@@ -18,7 +18,7 @@ It just runs the good ol' FizzBuzz game/test.
 - Run `node app`
 - For everything else just take a look into the code. As i said, its really very basic.
 
-![This is an image](/assets/images/screenshot.png)
+![This is an image](/screenshot.png)
 
 Have fun.
 
