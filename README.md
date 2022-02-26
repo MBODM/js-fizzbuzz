@@ -1,6 +1,8 @@
 # js-fizzbuzz
 Some FizzBuzz examples, written in JavaScript.
 
+![This is an image](/screenshot.png)
+
 ### What is it?
 It´s just some source code of 2 very basic and simple sample FizzBuzz implementations, i did for fun.  
 It contains
