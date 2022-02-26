@@ -18,7 +18,7 @@ It just runs the good ol' FizzBuzz game/test.
 - Just download the source code.
 - Open Console, or Powershell, or Terminal and navigate to the download folder.
 - Run `node app`
-- For everything else just take a look into the code. As i said, its really very basic.
+- For everything else just take a look into the code. As i said, it´s really very basic. :slightly_smiling_face:
 
 Have fun.
 
